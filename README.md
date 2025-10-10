@@ -1,5 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Jyotirmay Chakraborty  
 
+🎓 **Electronics and Communication Engineering** student at the **Academy of Technology**  
+🎯 Preparing for **GATE 2027** | Exploring **Mathematics, Data Science & AI**
+
+---
+
+### 🚀 About Me  
+- 💡 Passionate about connecting **mathematics**, **electronics**, and **computing**  
+- 🧠 Interested in **quantum electronics**, **data-driven systems**, and **research**  
+- 🧩 Currently learning **Python**, **C**, and **Data Structures & Algorithms**  
+- 📘 Working on projects involving **data analysis**, **visualization**, and **automation**  
+- 🌱 On a journey toward becoming a **polymath** — exploring science, technology, and philosophy
+
+---
+
+### 🛠️ Tech Stack  
+**Languages:** Python, C, HTML, CSS, JavaScript (basic)  
+**Tools & Frameworks:** Git, GitHub, Pandas, NumPy, Matplotlib  
+**Areas of Interest:** Data Science, Machine Learning, Signal Processing, Open Source  
+
+---
+
+### 🏆 Goals for 2025  
+- 💻 Contribute to open-source tech & data science projects  
+- 🧮 Strengthen math foundations (algebra, topology, number theory)  
+- 🧑‍💻 Participate in hackathons and research internships  
+- 🚀 Build interdisciplinary projects combining ECE + Data Science  
+
+---
+
+### 📫 Connect With Me  
+🌐 [LinkedIn](https://www.linkedin.com/in/jyotirmay-chakraborty-330003224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+> “Mathematics gives structure to thought; science gives it direction.”  
+> — *Jyotirmay Chakraborty*
 <!--
 **UltimatePlutoC/Ultimateplutoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
