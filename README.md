@@ -9,7 +9,7 @@
 
 ### 🚀 About Me  
 - 💡 Passionate about connecting **mathematics**, **electronics**, and **computing**  
-- 🧠 Interested in **quantum electronics**, **data-driven systems**, and **research**  
+- 🧠 Interested in **data-driven systems** and **research**  
 - 🧩 Currently learning **Python**, **C**, and **Data Structures & Algorithms**  
 - 📘 Working on projects involving **data analysis**, **visualization**, and **automation**  
 - 🌱 On a journey toward becoming a **polymath** — exploring science, technology, and philosophy
