@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=981BF7&multiline=true&width=435&lines=Hello+World.)](https://git.io/typing-svg)
 
-# 👋 Hi, I'm Jyotirmay Chakraborty  
+# 👋 I'm Jyotirmay Chakraborty  
 
 🎓 **Electronics and Communication Engineering** student at the **Academy of Technology**  
 🎯 Preparing for **GATE 2027** | Exploring **Mathematics, Data Science & AI**
